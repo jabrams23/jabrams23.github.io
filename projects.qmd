@@ -3,9 +3,11 @@ title: "Projects"
 format: html
 editor: visual
 ---
-- [Making a Research Website with Github Pages and Quarto](https://github.com/alburycatalina/Personal-Research-Website/blob/main/README.md)\
-[{code}](https://github.com/alburycatalina/Personal-Research-Website)\
-    A tutorial for making a personal research website with Github and Quarto. 
+
+-   [Making a Research Website with Github Pages and Quarto](https://github.com/alburycatalina/Personal-Research-Website/blob/main/README.md)\
+    [{code}](https://github.com/alburycatalina/Personal-Research-Website)\
+    A tutorial for making a personal research website with Github and Quarto.
+
 -   [BETA Reporting](https://github.com/alburycatalina/BETA-Reporting)\
     [{code}](https://github.com/alburycatalina/BETA-Reporting)\
     Code for generating insights about participation in BETA (Bahamas Engineering and Technological Advancement) using spatial data analysis packages [geodata](https://cran.r-project.org/web/packages/geodata/index.html), [sf](https://r-spatial.github.io/sf/), [terra](https://cran.r-project.org/web/packages/terra/index.html), and [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html).

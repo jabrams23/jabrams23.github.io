@@ -1,42 +1,33 @@
 ---
-title: "Albury C., MSc"
+title: "Dr. Jesse F. Abrams"
 image: images/profile.jpg
 about:
   template: trestles
   links:
     - text: LinkedIn
       icon: linkedin
-      url: "https://www.linkedin.com/in/alburycatalina"
+      url: "https://www.linkedin.com/"
     - text: GitHub
       icon: github
-      url: "https://github.com/alburycatalina"
+      url: "https://github.com/"
     - text: ORCID
       icon: person-circle
-      url: "https://orcid.org/0000-0003-1061-9213"
+      url: "https://orcid.org/"
     - text: ResearchGate
       icon: journal
-      url: "https://www.researchgate.net/profile/Catalina-Albury"
+      url: "https://www.researchgate.net/profile/"
     - text: Email
       icon: envelope
-      url: "mailto:alburycatalina@dal.ca"
+      url: "mailto:j.abrams@exeter.ac.uk"
 comments: false
 ---
 
 ::: {.column-page}
 
 ## Bio
-I am a Bahamian researcher located in Vancouver, BC on unceeded xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and səlilwətaɬ (Tsleil-Waututh) territory. I’m currently the data products steward for the Pacific Data Stewardship Unit (DSU) at the Department of Fisheries and Oceans. As data products steward, I build data pipelines that ensure  access to important ecological datasets. 
+I am 
 
-I completed an MSc in Biology under the supervision of [Dr. Erin Bertrand](https://erinbertrand.wixsite.com/bertrandlab). At the Bertrand lab, my research area was marine microbial ecophysiology (the study of how organisms react to environmental change). I used meta-omic analyses and bioinformatic pipelines to understand how trace nurtient and temperature dynamics impact microbial function. 
-
-
-
-I mantain [the Employment Equity](https://employment-equity.github.io/) site, which hosts analyses and visualizations for disproportionalities in pay based on race across the Canadian Public Service from data [publicly available here](https://www.canada.ca/en/treasury-board-secretariat/services/innovation/human-resources-statistics/diversity-inclusion-statistics.html) through Canada's Treasury Board.  
-
-When I’m not writing up a script, you can often find me cycling, cooking, or teaching. I’m passionate about getting young people excited about science and providing access to information, tools, and skills that spark scientific creativity.
-
-**Interests:** Marine Ecology, Science Communication, Equity and Inclusivity, Climate Justice, Scientific Computing 
-
+**Interests:** XYZ
 
 ## Inquiries
 If you have questions about my work or are interested in collaborating, feel free to [contact me](mailto:alburycatalina@dal.ca). I am always interested in discussing data science consulting or workshop offerings. 
