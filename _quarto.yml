@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dr. Jesse F. Abrams"
+  navbar:
+    title: "Dr. Jesse F. Abrams"
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        menu:
+          - about.qmd
+          - cv.qmd
+      - research.qmd
+      - publications.qmd
+      - contact.qmd
+  favicon: "images/favicon-32x32.png"
+  cookie-consent: true
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: false
+
+editor: visual
+
+execute:
+  freeze: auto
+
