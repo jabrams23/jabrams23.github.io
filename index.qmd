@@ -6,36 +6,34 @@ about:
   links:
     - text: LinkedIn
       icon: linkedin
-      url: "https://www.linkedin.com/"
+      url: "https://www.linkedin.com/in/jesse-f-abrams-32972862/"
     - text: GitHub
       icon: github
-      url: "https://github.com/"
+      url: "https://github.com/https://github.com/jabrams23"
     - text: ORCID
       icon: person-circle
-      url: "https://orcid.org/"
+      url: "https://orcid.org/0000-0003-0411-8519"
     - text: ResearchGate
       icon: journal
-      url: "https://www.researchgate.net/profile/"
+      url: "https://www.researchgate.net/profile/Jesse-Abrams"
     - text: Email
       icon: envelope
       url: "mailto:j.abrams@exeter.ac.uk"
 comments: false
 ---
 
-::: {.column-page}
-
+::: column-page
 ## Bio
-I am 
+
+I am
 
 **Interests:** XYZ
 
 ## Inquiries
-If you have questions about my work or are interested in collaborating, feel free to [contact me](mailto:alburycatalina@dal.ca). I am always interested in discussing data science consulting or workshop offerings. 
+
+If you have questions about my work or are interested in collaborating, feel free to [contact me](mailto:). I am always interested in discussing data science consulting or workshop offerings.
 
 ## Mentorship
-I am open to acting as a mentor to youth navigating a career in science when I have the capacity. If you are part of a group which has historically been excluded from STEM and are seeking a mentor, please [reach out via email](mailto:alburycatalina@dal.ca) with a short introduction about yourself. 
 
+I am open to acting as a mentor to youth navigating a career in science when I have the capacity. If you are part of a group which has historically been excluded from STEM and are seeking a mentor, please [reach out via email](mailto:) with a short introduction about yourself.
 :::
-
-
-

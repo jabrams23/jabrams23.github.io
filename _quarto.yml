@@ -7,22 +7,23 @@ website:
   navbar:
     title: "Dr. Jesse F. Abrams"
     left:
-      - href: index.qmd
-        text: Home
+      - text: Home
+        href: index.qmd
+      - text: About
+        menu:
+          - about.qmd
+          - cv.qmd
+      - research.qmd
       - publications.qmd
-      - projects.qmd
+      - contact.qmd
   favicon: "images/favicon-32x32.png"
-  page-footer:
-    center: "I created this site with [Quarto](https://quarto.org/), an open source scientific publishing system."
   cookie-consent: true
 
 format:
   html:
     theme: minty
     css: styles.css
-    toc: true
-    include-after-body: html/analytics.html
-    include-in-header: html/coffee.html
+    toc: false
 
 editor: visual
 

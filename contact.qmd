@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Contact"
 format: html
 editor: visual
 ---

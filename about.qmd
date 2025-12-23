@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "About"
 format: html
 editor: visual
 ---
@@ -15,4 +15,3 @@ XYZ
 ### 2022
 
 [XYZ.](https://www.link.com) 2023. **xyz**, xyz. *xyz.* [(PDF)](https://www.link.pdf)
-
